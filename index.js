@@ -28,6 +28,12 @@ let notes = [
         content: "GET and POST are methods",
         date: "2022-05-30T19:20:14.298Z",
         important: false
+    },
+    {
+        id: 5,
+        content: "This is a message",
+        date: "2022-05-30T19:20:14.298Z",
+        important: false
     }
 ]
 
